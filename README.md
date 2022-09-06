@@ -17,7 +17,7 @@ This is the final project of the Power BI online course. The data and guidance w
 - Map visual for number of products sold by Country
 - Table, with conditional formatting, that shows sales terretories along with the sales amount as %, total sales amount and time intervals
 
-## Images
+## Preview
 <img src="https://github.com/yasinfahmy/Sales-Team-Dashboard/blob/main/images/1.JPG"/>
 <img src="https://github.com/yasinfahmy/Sales-Team-Dashboard/blob/main/images/2.JPG"/>
 <img src="https://github.com/yasinfahmy/Sales-Team-Dashboard/blob/main/images/3.JPG"/>
