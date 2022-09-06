@@ -3,6 +3,7 @@ This is the final project of the Power BI online course. The data and guidance w
 - Better understanding of sales
 - See month on month performance
 - Comparing Currencies
+- Filterable by: User, Currency, Sales Territory, Month or Timeinterval
 
 ## Summarized Steps
 - Importing, data cleaning and wrangling with Power Query Mode
