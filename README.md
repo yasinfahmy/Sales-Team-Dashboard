@@ -1,7 +1,5 @@
 # Project 1: Sales Team Dashboard (Power BI)
 This is the final project of the Power BI online course. The data and guidance was provided by 365DataScience.
-
-Purpose:
 - Better understanding of sales
 - See month on month performance
 - Comparing Currencies
